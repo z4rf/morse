@@ -1,0 +1,3 @@
+#Morse Trainer
+
+This is a work in progress project that can be used to learn morse code.  As the user enters dots and dashes, the backend traverses down a binary tree and reflects the letter that is chosen by the inputted dots and dashes.  
